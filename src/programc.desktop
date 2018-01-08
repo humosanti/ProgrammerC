@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version = 1.0.15
+Type = Application
+Terminal = fale
+Name = ProgramC
+Exec = /usr/bin/programc
+Icon = /src/app/images/logo.png
+Categories = Application;
