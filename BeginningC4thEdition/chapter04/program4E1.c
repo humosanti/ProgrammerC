@@ -3,6 +3,7 @@
  * Written by Humberto Molinares
  * Copyright 2018
  *
+ * v.1.0.1
  *
  */
 /* Write a program than will generate a multiplication table of a size entered
