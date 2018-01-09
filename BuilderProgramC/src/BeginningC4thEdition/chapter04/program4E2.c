@@ -16,6 +16,11 @@
 
 int main(void)
 {
+	int i=32;
+	do
+	{
 
+		++i;
+	} while(i<127);
 	return 0; 
 }
