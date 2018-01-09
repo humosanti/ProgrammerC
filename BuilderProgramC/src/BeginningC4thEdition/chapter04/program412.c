@@ -107,7 +107,7 @@ int main(void)
 
     /* Check if a new game is required */
     printf("\nDo you want to play again (y/n)?");
-    scanf(" %c", &another_game);
+    scanf("%c", &another_game);
   } while(toupper(another_game) == 'Y');
 
   return 0;
