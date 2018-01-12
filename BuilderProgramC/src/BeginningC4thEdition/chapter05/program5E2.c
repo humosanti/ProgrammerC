@@ -15,3 +15,14 @@
 * Multiply the result of this for 4.0, add 3.0, and output the final
 * result. Do you recognize the value that you get?
 */
+#include<stdio.h>
+
+int main(void)
+{
+	int i=0;
+	double a_rray[5];
+	do {
+		a_rray[i]=5.6;
+		i++;} while(i<6);
+    return 0;
+}
